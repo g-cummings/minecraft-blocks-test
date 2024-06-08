@@ -4,7 +4,7 @@
       "description": "My dirt resource pack Add-On!",
       "name": "My Resource Pack",
       "uuid": "b4f9b6b3-2126-4b9d-ae66-f6fd37a62d5a",
-      "version": [1, 0, 0],
+      "version": [1, 0, 1],
       "min_engine_version": [1, 16, 0]
      },
     "modules": [
@@ -12,7 +12,7 @@
         "description": "My First Add-On!",
         "type": "resources",
         "uuid": "2c6657e1-e6d4-4960-a2f6-3da41c272210",
-        "version": [1, 0, 0]
+        "version": [1, 0, 1]
       }
     ]
    }
